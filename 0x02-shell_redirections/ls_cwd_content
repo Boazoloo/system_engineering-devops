@@ -1,0 +1,15 @@
+total 148
+drwxrwxr-x 2 davis davis 4096 Nov 27 09:59 .
+drwxrwxr-x 5 davis davis 4096 Nov 27 09:09 ..
+-rwxrwxr-x 1 davis davis   32 Nov 27 09:09 0-hello_world
+-rwxrwxr-x 1 davis davis   28 Nov 27 09:17 1-confused_smiley
+-rwxrwxr-x 1 davis davis   28 Nov 27 09:22 2-hellofile
+-rwxrwxr-x 1 davis davis   39 Nov 27 09:24 3-twofiles
+-rwxrwxr-x 1 davis davis   35 Nov 27 09:27 4-lastlines
+-rwxrwxr-x 1 davis davis   35 Nov 27 09:31 5-firstlines
+-rwxrwxr-x 1 davis davis   40 Nov 27 09:35 6-third_line
+-rwxrwxr-x 1 davis davis   72 Nov 27 09:54 7-file
+-rwxrwxr-x 1 davis davis   36 Nov 27 10:19 8-cwd_state
+-rw-rw-r-- 1 davis davis   12 Nov 27 09:54 \*\'"Best School"\'\*$\?*****:)
+-rw-rw-r-- 1 davis davis   46 Nov 27 09:37 iacta
+-rw-rw-r-- 1 davis davis    0 Nov 27 10:20 ls_cwd_content
