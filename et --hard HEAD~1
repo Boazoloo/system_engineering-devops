@@ -1,0 +1,57 @@
+[33ma51ca5d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m Fix task 0 clean version
+[33mf601a7a[m Fix task 0 script format
+[33mef6eabe[m Add task 0 - I am betty
+[33m5c94746[m Delete 0x01-shell_permissions/0-iam_betty
+[33mb908f9e[m Change file permissions for hello to 753
+[33m61ee8da[m Add 9-John_Doe script for hello permissions
+[33mec560ca[m Delete 0x01-shell_permissions/hello
+[33mc88467c[m Delete 0x01-shell_permissions/9-John_Doe
+[33m4503dd9[m Update 4-empty
+[33m55f5498[m Recreate 4-empty script correctly
+[33md1c8c66[m Add 9-John_Doe script
+[33m27fdca0[m Fix 8-James_Bond location and update 4-empty
+[33ma764cde[m Fix correct shebang and location
+[33m06e1e58[m Change shebang to use /bin/bash
+[33m54c7776[m Fix shebang line formatting
+[33m10df1e0[m Add comment to explain empty file creation script
+[33m85d7295[m Add script to create empty file hello
+[33m6c1d068[m Empty README.md for checker
+[33m29dc690[m Add empty README.md and fix Hello World script
+[33m5f0c1b0[m Add 0-hello_world script
+[33mcda6e97[m Task 10: Delete all .js files
+[33mc8da357[m Task 9: Duplicate last line
+[33m725ba24[m Merge branch 'main' of https://github.com/Boazoloo/system_engineering-devops
+[33ma3219b5[m Fix/update 7-file
+[33mccc5654[m Task 8: Save directory state
+[33m5fa64d3[m Fix 7-file and add cwd state output
+[33m66a0647[m Add script to save cwd state
+[33m5ce175e[m Fix output redirection syntax in 7-file
+[33mc780117[m Add script 7-file that creates special filename
+[33mf1b30d8[m Add script that prints the third line of iacta
+[33m53e1216[m Add 5-firstlines script
+[33m4be758b[m Add 4-lastlines script
+[33m78abc5f[m Add 3-twofiles script
+[33mc67becc[m Add 2-hellofile script
+[33m6655f4e[m Add 1-confused_smiley script
+[33m1c76ec4[m Add 0-hello_world script
+[33md05468e[m Complete task 9 John Doe
+[33m78e984c[m Fix su command syntax in iam_betty script
+[33mb9df300[m Delete 0x01-shell_permissions/4-empty
+[33mc28002e[m Delete 0x01-shell_permissions/8-James_Bond
+[33mcb027c8[m Delete 0x01-shell_permissions/9-John_Doe
+[33m12e073a[m Complete task 8 - James Bond
+[33m2324fbf[m Add script 6-multiple_permissions
+[33meefcfcc[m Add script to change group owner of hello to school
+[33m862b6b5[m Add directory creation script with 751 permissions
+[33m7568bb6[m Add directory permission script
+[33mc2718b3[m Add permission script for John Doe task
+[33mc4cf78b[m Add permission script for James Bond task
+[33md9b2998[m Add script to give execute permission to owner
+[33m435eb6b[m Fix 4-empty script
+[33m9ae8aa1[m Add script 4-empty to create an empty file hello
+[33mf7eaf5f[m Fix Task 3: change owner of hello to betty
+[33med17c83[m Add 3-new_owner script
+[33mc550bc9[m Add 2-groups
+[33m8ab2aa8[m Add 1-who_am_i
+[33mea9538f[m Add README.md
+[33md03cef8[m Add 0-iam_betty
