@@ -3,5 +3,5 @@
 
 for i in {1..10}
 do
-    echo "Best School"  # i is not needed but loop is valid
+    echo "Best School"
 done
