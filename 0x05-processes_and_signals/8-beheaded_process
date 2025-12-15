@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# A Bash script that kills the 7-highlander process using SIGKILL
+
+# Find the PID of 7-highlander
+pid=$(pgrep -f 7-highlander)
+
+# Kill with SIGKILL if PID exists
+if [ -n "$pid" ]; then
+  kill -9 "$pid"
+fi
