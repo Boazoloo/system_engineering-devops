@@ -1,3 +1,3 @@
-# Shell Permissions Project
-This repository contains tasks for Week 11: Shell Permissions.
+# System Engineering DevOps
 
+ALX system engineering and DevOps projects.
